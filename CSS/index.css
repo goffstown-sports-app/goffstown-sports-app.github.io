@@ -67,3 +67,9 @@ p {
     color: #ffffff;
     transform: translate(0%, -40%);
 }
+
+.zoomed {
+    zoom: 1.5;
+    -moz-transform: scale(2);
+    -moz-transform-origin: 0 0;
+}
